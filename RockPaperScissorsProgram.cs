@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace RockPaperScissorsToluA
 {
-    static class Program
+    static class RockPaperScissorsProgram
     {
         /// <summary>
         /// The main entry point for the application.
