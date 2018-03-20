@@ -45,7 +45,7 @@ namespace RockPaperScissorsToluA
             
             Random randomNumberGenerator = new Random();
             // get the users selection, if there is no selection, it is zero 
-            playerChoice = int.Parse(grbPlayerOptions.Text);
+            
 
             if (radPlayerRock.Checked == true)
             {
